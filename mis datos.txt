@@ -1,0 +1,4 @@
+nombre
+apellidos
+correo
+direccion
