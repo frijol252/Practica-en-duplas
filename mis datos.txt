@@ -1,4 +1,4 @@
-nombre
-apellidos
-correo
-direccion
+nombre Jose	
+apellidos	Quiroga
+correo JoseGamer252@gmail.com
+direccion villahola123
